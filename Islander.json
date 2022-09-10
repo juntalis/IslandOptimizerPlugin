@@ -1,0 +1,9 @@
+﻿{
+	"Author": "juntalis",
+	"Name": "Island Optimizer",
+	"Punchline": "Plugin to optimize workshop production.",
+	"Description": "",
+	"InternalName": "Islander",
+	"ApplicableVersion": "any",
+	"Tags": []
+}
