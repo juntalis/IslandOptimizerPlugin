@@ -1,3 +1,3 @@
 # Island Optimizer Dalamud Plugin
 
-TODO: stuff
+Largely based off the documentation offered in [Leiton Grey's spreadsheet].
